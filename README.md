@@ -13,6 +13,7 @@ The Documentation Automation Project aims to implement automation tools and proc
 - **Technical proficiency**: Proficiency in relevant programming languages, tools, and platforms required for developing automation scripts and templates.
 - **Problem-solving**: Ability to identify challenges and develop innovative solutions to address them effectively.
 - **Innovation**: Willingness to explore new technologies and methodologies to enhance documentation workflows and achieve project objectives.
+- **XML Authoring**
 
 ## Getting Started
 To get started with the Documentation Automation Project, follow these steps:
